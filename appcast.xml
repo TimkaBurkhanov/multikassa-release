@@ -5,11 +5,11 @@
         <description>Найдено обновление</description>
         <language>ru</language>
         <item>
-            <title>Version 1.0.0+1</title>
+            <title>Version 1.0.0+2</title>
             <pubDate>26 Sep 2023 18:45:00 +0800</pubDate>
-            <enclosure url="https://github.com/TimkaBurkhanov/multikassa-release/releases/download/v1.0.0/multikassa-1.0.0+1-windows-setup.exe"
-                sparkle:dsaSignature="MD0CHQCEIAmTOwN5NkeYNUK/iGwsMQLEsaGhH8QqC7+XAhwXK+qq7W5xRJyEHJbMMXiN6PN5gZXYZNW5ibRK"
-                sparkle:version="1.0.0+1"
+            <enclosure url="https://github.com/TimkaBurkhanov/multikassa-release/releases/download/v1.0.0/multikassa-1.0.0+2-windows-setup.exe"
+                sparkle:dsaSignature="MDwCHAYCvP12pjjiU0Uhp8LuBcF19Dx/ZWKMdj4k3dkCHAZnSp2VOI5+CMVUHPJ41AegMQ+YNUb2e5uQqWQ="
+                sparkle:version="1.0.0+2"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />

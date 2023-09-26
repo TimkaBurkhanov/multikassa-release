@@ -7,9 +7,9 @@
         <item>
             <title>Version 1.0.0+2</title>
             <pubDate>26 Sep 2023 18:45:00 +0800</pubDate>
-            <enclosure url="https://comfy-stardust-37843b.netlify.app/1.0.0+2/multikassa-1.0.0+2-windows-setup.exe"
-                sparkle:dsaSignature="MD4CHQDFhdUTNQ13wjoVNdK4hTmvBV57i7bJ83DJTvWoAh0AxFdNQsw4JYk62l6wOUy2PVN+FcZlsfUzcOB3Ig=="
-                sparkle:version="1.0.0+2"
+            <enclosure url="https://github.com/TimkaBurkhanov/multikassa-release/releases/download/untagged-dc3a056268e91f128bee/multikassa-1.0.0%2B1-windows-setup.exe"
+                sparkle:dsaSignature="MD0CHQCEIAmTOwN5NkeYNUK/iGwsMQLEsaGhH8QqC7+XAhwXK+qq7W5xRJyEHJbMMXiN6PN5gZXYZNW5ibRK"
+                sparkle:version="1.0.0+1"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
